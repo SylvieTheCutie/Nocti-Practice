@@ -1,0 +1,137 @@
+{
+    "products": [
+        {
+           "name" : "4300 Platinum + triple rare mods",
+           "price" : 199.99,
+           "type" : "Platinum"
+        },
+        {
+           "name" : "2100 Platinum + dual rare mods",
+           "price" : 99.99,
+           "type" : "Platinum"
+        },
+        {
+           "name" : "1000 Platinum + rare mod",
+           "price" : 49.99,
+           "type" : "Platinum"
+        },
+        {
+           "name" : "370 platinum",
+           "price" : 19.99,
+           "type" : "Platinum"
+        },
+        {
+           "name" : "170 platinum",
+           "price" : 9.99,
+           "type" : "Platinum"
+        },
+        {
+           "name" : "75 platinum",
+           "price" : 4.99,
+           "type" : "Platinum"
+        },
+        {
+            "name" : "Rhino Heirloom Steel Collection",
+            "price" : 24.99,
+            "type" : "Pack"
+        },
+        {
+            "name" : "Complete Collection",
+            "price" : 54.99,
+            "type" : "Pack"
+        },
+        {
+            "name" : "Gemini Oath Collection",
+            "price" : 34.99,
+            "type" : "Pack"
+        },
+        {
+            "name" : "1999 CYTE-09 Bullseye Bundle",
+            "price" : 19.99,
+            "type" : "Pack"
+        },
+        {
+            "name" : "Jade Chorus Pack",
+            "price" : 19.99,
+            "type" : "Pack"
+        },
+        {
+            "name" : "Starter Weapon Pack",
+            "price" : 4.99,
+            "type" : "Pack"
+        },
+        {
+            "name" : "Koumei Visions Bundle",
+            "price" : 29.99,
+            "type" : "Pack"
+        },
+        {
+            "name" : "Sakura Storm Collection",
+            "price" : 9.99,
+            "type" : "Pack"
+        },
+        {
+            "name" : "Xaku Prime: Complete",
+            "price" : 139.99,
+            "type" : "Pack"
+        },
+        {
+            "name" : "Xaku Prime: Prime",
+            "price" : 79.99,
+            "type" : "Pack"
+        },
+        {
+            "name" : "Xaku Prime: Weapons",
+            "price" : 49.99,
+            "type" : "Pack"
+        },
+        {
+            "name" : "Xaku Prime: Prime Accessories",
+            "price" : 49.99,
+            "type" : "Pack"
+        },
+        {
+            "name" : "3 Regal Aya",
+            "price" : 19.99,
+            "type" : "Regal Aya Bundle"
+        },
+        {
+            "name" : "7 Regal Aya",
+            "price" : 39.99,
+            "type" : "Regal Aya Bundle"
+        },
+        {
+            "name" : "15 Regal Aya",
+            "price" : 79.99,
+            "type" : "Regal Aya Bundle"
+        }
+    ],
+    "customers": [
+        {
+            "name" : "Persephone.PRIME",
+            "orders" : [1,0,0,2,0,1,0,0,0,0,1,1,0,0,0,1,0,0,0,1,2],
+            "discount" : 0
+        },
+        {
+            "name" : "BreadGoddessYT",
+            "orders" : [0,0,1,1,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1],
+            "discount" : 25
+        },
+        {
+            "name" : "Chronometria",
+            "orders" : [3,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+            "discount" : 75
+        },
+        {
+            "name" : "JadeIsEpic",
+            "orders" : [9,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0],
+            "discount" : 0
+        },
+        {
+            "name" : "JadeIsEpic",
+            "orders" : [13,0,0,2,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,17],
+            "discount" : 50
+        }
+    ]
+
+}
